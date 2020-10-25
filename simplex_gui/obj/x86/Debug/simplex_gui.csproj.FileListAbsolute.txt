@@ -1,0 +1,18 @@
+C:\Work\Test stuff\simplex-method-master - nonRu\simplex_gui\bin\Debug\simplex_gui.exe
+C:\Work\Test stuff\simplex-method-master - nonRu\simplex_gui\bin\Debug\simplex_gui.pdb
+C:\Work\Test stuff\simplex-method-master - nonRu\simplex_gui\obj\x86\Debug\simplex_gui.csprojAssemblyReference.cache
+C:\Work\Test stuff\simplex-method-master - nonRu\simplex_gui\obj\x86\Debug\simplex_gui.Form1.resources
+C:\Work\Test stuff\simplex-method-master - nonRu\simplex_gui\obj\x86\Debug\simplex_gui.Properties.Resources.resources
+C:\Work\Test stuff\simplex-method-master - nonRu\simplex_gui\obj\x86\Debug\simplex_gui.csproj.GenerateResource.cache
+C:\Work\Test stuff\simplex-method-master - nonRu\simplex_gui\obj\x86\Debug\simplex_gui.csproj.CoreCompileInputs.cache
+C:\Work\Test stuff\simplex-method-master - nonRu\simplex_gui\obj\x86\Debug\simplex_gui.exe
+C:\Work\Test stuff\simplex-method-master - nonRu\simplex_gui\obj\x86\Debug\simplex_gui.pdb
+C:\Work\University\CO\Teme\t1_solver\simplex_gui\bin\Debug\simplex_gui.exe
+C:\Work\University\CO\Teme\t1_solver\simplex_gui\bin\Debug\simplex_gui.pdb
+C:\Work\University\CO\Teme\t1_solver\simplex_gui\obj\x86\Debug\simplex_gui.csprojAssemblyReference.cache
+C:\Work\University\CO\Teme\t1_solver\simplex_gui\obj\x86\Debug\simplex_gui.Form1.resources
+C:\Work\University\CO\Teme\t1_solver\simplex_gui\obj\x86\Debug\simplex_gui.Properties.Resources.resources
+C:\Work\University\CO\Teme\t1_solver\simplex_gui\obj\x86\Debug\simplex_gui.csproj.GenerateResource.cache
+C:\Work\University\CO\Teme\t1_solver\simplex_gui\obj\x86\Debug\simplex_gui.csproj.CoreCompileInputs.cache
+C:\Work\University\CO\Teme\t1_solver\simplex_gui\obj\x86\Debug\simplex_gui.exe
+C:\Work\University\CO\Teme\t1_solver\simplex_gui\obj\x86\Debug\simplex_gui.pdb
